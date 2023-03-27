@@ -1,0 +1,1 @@
+console.log('On pourrait aussi commencer comme cela');
