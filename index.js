@@ -1,0 +1,1 @@
+console.log('Voilà un beau projet qui démarre !');
